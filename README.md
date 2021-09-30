@@ -1,0 +1,1 @@
+Aplicación simple de un contador, utilizando localStorage html5 y js
